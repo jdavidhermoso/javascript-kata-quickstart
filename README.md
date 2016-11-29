@@ -1,2 +1,7 @@
-# javascript-kata-quickstart
-Javascript Kata QuickStart
+JavaScript Kata QuickStart
+=========================
+
+Basic structure for javascript katas.
+
+Libraries
+* Jasmine
